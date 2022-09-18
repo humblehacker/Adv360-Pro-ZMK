@@ -7,8 +7,7 @@
     "keypad",
     "fn",
     "mod",
-    "dvorak",
-    "hh"
+    "dvorak"
   ],
   "layers": [
     [
@@ -41,12 +40,6 @@
        "&mt LCTRL ESC",     "&kp A",     "&kp O",    "&kp E",     "&kp U",    "&kp I",            "&kp TAB", "&kp LALT", "&kp HOME",                           "&kp PG_UP", "&kp RCTRL", "&kp ENTER",    "&kp D",  "&kp H",  "&kp T",  "&kp N",  "&kp S", "&kp MINUS",
            "&kp LSHFT",  "&kp SEMI",     "&kp Q",    "&kp J",     "&kp K",    "&kp X",              "&none",    "&none",  "&kp END",     "&none",     "&none", "&kp PG_DN",     "&none",     "&none",    "&kp B",  "&kp M",  "&kp W",  "&kp V",  "&kp Z", "&kp RSHFT",
                "&mo 2", "&kp EQUAL",  "&kp CAPS", "&kp LEFT", "&kp RIGHT", "&kp BSPC",           "&kp LGUI",    "&mo 2",    "&mo 2", "&kp ENTER", "&kp SPACE",    "&kp UP",  "&kp DOWN",  "&kp LBKT", "&kp RBKT",  "&mo 2"
-    ], [
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&kp UP", "&trans", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans", "&trans", "&kp LEFT", "&kp DOWN", "&kp RIGHT", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",   "&trans",   "&trans",    "&trans", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",   "&trans"
     ]
   ]
 }
